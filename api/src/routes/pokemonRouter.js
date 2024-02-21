@@ -6,7 +6,7 @@ const {
 	getPokemonsHandler,
 	getPokemonByIdHandler,
 	postPokemonHandler,
-} = require ('../handlers/pokemonsHandlers')
+} = require ('../handlers/pokemonHandlers')
 
 pokemonRouter.get('/', getPokemonsHandler)
 
