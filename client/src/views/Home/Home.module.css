@@ -1,0 +1,6 @@
+.background {
+	z-index: 1;
+	width: 100%;
+	height: 99.49vh;
+	object-fit: fill;
+}

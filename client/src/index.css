@@ -1,13 +1,7 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	background-image: url('https://img.freepik.com/vector-gratis/fondo-pantalla-estilo-comico_79603-1248.jpg?w=996&t=st=1690836940~exp=1690837540~hmac=db63583e4695202cbd764bf0ff212d18e889d6f65b248799c8efb76312cea50f');
+	background-size: cover;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
